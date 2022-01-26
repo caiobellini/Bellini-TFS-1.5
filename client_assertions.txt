@@ -1,0 +1,19 @@
+----- 25/01/2022 16:28:12 - Dev Bellini (127.0.0.1) -----
+Debug Assertion 8.60 Container.h 226
+Tue Jan 25 16:27:48 2022
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD Athlon 3000G WIT
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 131 030 109 101 109 101 109 131 131 106
+Last Packet: 131 094 000 126 000 007 089 000 000 000 000 000 000 000 000 000
+Player Position: [94,126,7]
+Player Name: Dev Bellini (Forgotten)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 508: exception occurred (nIDEvent = 1), reason:
+Control.cpp 1437: exception occurred, reason:
+Map.cpp 1008: exception occurred (i = 0), reason:
+Objects.cpp 757: exception occurred (Number = 89), reason:
+Container.h 226: index out of range (original i: 89, i: 88, min: 1, d: 70)
+Comment: 
